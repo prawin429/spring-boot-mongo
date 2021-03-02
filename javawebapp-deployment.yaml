@@ -1,6 +1,6 @@
 ---
 apiVersion: apps/v1
-kind: Pod
+kind: ReplicationController
 metadata:
   labels:
     name: javawebapp
